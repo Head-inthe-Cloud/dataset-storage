@@ -1,21 +1,21 @@
-"","country","max_full_vac"
-"1","Gibraltar",88.42
-"2","Israel",57.19
-"3","Falkland Islands",49.3
-"4","Seychelles",43.99
-"5","Cayman Islands",37.36
-"6","Bermuda",27.88
-"7","Chile",24.4
-"8","Bahrain",23.81
-"9","Jersey",22.8
-"10","San Marino",22.69
-"11","Monaco",22.41
-"12","United States",22.15
-"13","United Arab Emirates",22.12
-"14","Isle of Man",18.17
-"15","Serbia",17.14
-"16","Wales",16.75
-"17","Malta",16.19
-"18","Hungary",12.95
-"19","Guernsey",12.31
-"20","Northern Cyprus",11.53
+"","country","max_full_vac","max_full_vac_num"
+"1","Gibraltar",88.42,29790
+"2","Israel",57.19,4950254
+"3","Falkland Islands",49.3,1717
+"4","Seychelles",43.99,43259
+"5","Cayman Islands",37.36,24553
+"6","Bermuda",27.88,17361
+"7","Chile",24.4,4664573
+"8","Bahrain",23.81,405090
+"9","Jersey",22.8,23049
+"10","San Marino",22.69,7702
+"11","Monaco",22.41,8795
+"12","United States",22.15,74066085
+"13","United Arab Emirates",22.12,2187849
+"14","Isle of Man",18.17,15454
+"15","Serbia",17.14,1166011
+"16","Wales",16.75,528199
+"17","Malta",16.19,71481
+"18","Hungary",12.95,1250582
+"19","Guernsey",12.31,8254
+"20","Northern Cyprus",11.53,44083
