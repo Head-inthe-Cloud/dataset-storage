@@ -1,21 +1,177 @@
-"","country","max_full_vac","max_full_vac_num"
-"1","Gibraltar",88.42,29790
-"2","Israel",57.19,4950254
-"3","Falkland Islands",49.3,1717
-"4","Seychelles",43.99,43259
-"5","Cayman Islands",37.36,24553
-"6","Bermuda",27.88,17361
-"7","Chile",24.4,4664573
-"8","Bahrain",23.81,405090
-"9","Jersey",22.8,23049
-"10","San Marino",22.69,7702
-"11","Monaco",22.41,8795
-"12","United States",22.15,74066085
-"13","United Arab Emirates",22.12,2187849
-"14","Isle of Man",18.17,15454
-"15","Serbia",17.14,1166011
-"16","Wales",16.75,528199
-"17","Malta",16.19,71481
-"18","Hungary",12.95,1250582
-"19","Guernsey",12.31,8254
-"20","Northern Cyprus",11.53,44083
+"","country","max_full_vac","max_full_vac_num","max_total_vac"
+"1","United States",22.15,74066085,189692045
+"2","China",-Inf,-Inf,171928000
+"3","India",0.98,13490046,108533085
+"4","United Kingdom",11.28,7656205,39846781
+"5","England",11.26,6338332,33445922
+"6","Brazil",2.99,6352371,27432994
+"7","Turkey",9.04,7620131,18728978
+"8","Germany",6.11,5117056,18684873
+"9","Indonesia",1.95,5322501,15602574
+"10","France",5.46,3722019,14536712
+"11","Russia",3.74,5461499,14269543
+"12","Italy",6.6,3989383,13286783
+"13","Chile",24.4,4664573,12035524
+"14","Mexico",1.72,2223846,11703164
+"15","Spain",6.65,3108437,10784997
+"16","Israel",57.19,4950254,10279751
+"17","United Arab Emirates",22.12,2187849,9037923
+"18","Morocco",11.24,4148610,8635238
+"19","Canada",2.16,815659,8330898
+"20","Poland",5.58,2113615,7784384
+"21","Saudi Arabia",-Inf,-Inf,6401456
+"22","Bangladesh",0.32,522596,6172159
+"23","Argentina",1.61,728915,5390000
+"24","Hungary",12.95,1250582,4220229
+"25","Romania",7.46,1435730,3762214
+"26","Scotland",10.8,590174,3258897
+"27","Colombia",1.59,808785,3041349
+"28","Serbia",17.14,1166011,2882854
+"29","Netherlands",4.71,806424,2863986
+"30","Belgium",5.36,621653,2503818
+"31","Greece",7.15,745399,2225878
+"32","Portugal",6.17,628760,2203333
+"33","Austria",7.03,633422,2154019
+"34","Czechia",6.93,742653,2148474
+"35","Wales",16.75,528199,2116050
+"36","Sweden",5.63,568944,1924772
+"37","Japan",0.39,490819,1690592
+"38","Switzerland",7.42,642362,1690425
+"39","Singapore",9.16,535864,1667522
+"40","Nepal",-Inf,-Inf,1600000
+"41","Cambodia",1.63,271725,1371536
+"42","Denmark",7.76,449419,1332794
+"43","South Korea",0.12,60557,1255899
+"44","Finland",1.72,95246,1229239
+"45","Philippines",0.14,149041,1202297
+"46","Australia",-Inf,-Inf,1178302
+"47","Azerbaijan",4.13,418812,1177087
+"48","Slovakia",5.46,298298,1168907
+"49","Norway",5.47,296302,1165421
+"50","Qatar",-Inf,-Inf,1104726
+"51","Dominican Republic",0.94,101528,1101528
+"52","Uruguay",5.93,206147,1078620
+"53","Ireland",6.36,314216,1063666
+"54","Peru",1.22,403628,1052471
+"55","Myanmar",0.07,40000,1040000
+"56","Northern Ireland",10.54,199500,1025912
+"57","Malaysia",1.22,395891,979794
+"58","Bahrain",23.81,405090,973982
+"59","Nigeria",-Inf,-Inf,964387
+"60","Sri Lanka",-Inf,-Inf,925242
+"61","Hong Kong",3.74,280522,877873
+"62","Pakistan",-Inf,-Inf,8e+05
+"63","Ghana",-Inf,-Inf,703752
+"64","Lithuania",6.99,190154,682847
+"65","Mongolia",-Inf,-Inf,616906
+"66","Kuwait",0.89,38000,604861
+"67","Croatia",2.72,111544,595369
+"68","Bulgaria",1.65,114644,579992
+"69","Thailand",0.1,71261,570052
+"70","Jordan",1.17,119621,524533
+"71","Costa Rica",4.19,213562,504930
+"72","Panama",3.64,157100,498584
+"73","Bhutan",-Inf,-Inf,475651
+"74","Ecuador",1.04,183300,457460
+"75","Slovenia",5.88,122185,456891
+"76","Kazakhstan",0.56,105392,443974
+"77","Bolivia",1.21,141665,431018
+"78","Kenya",-Inf,-Inf,422021
+"79","Ukraine",0,5,388404
+"80","Senegal",-Inf,-Inf,351372
+"81","Rwanda",-Inf,-Inf,348926
+"82","Estonia",5.64,74774,333835
+"83","Iran",-Inf,-Inf,319890
+"84","South Africa",0.49,289787,289787
+"85","Lebanon",1.58,107811,285966
+"86","Maldives",2.83,15294,283753
+"87","Albania",0.02,655,267531
+"88","El Salvador",-Inf,-Inf,264159
+"89","Venezuela",-Inf,-Inf,250000
+"90","Angola",-Inf,-Inf,245442
+"91","Malta",16.19,71481,244718
+"92","Zimbabwe",0.2,29304,234579
+"93","Malawi",-Inf,-Inf,212615
+"94","Oman",0.37,19019,188029
+"95","Cyprus",5.97,52288,183225
+"96","Uganda",-Inf,-Inf,180969
+"97","Latvia",1.4,26440,180093
+"98","Egypt",-Inf,-Inf,164534
+"99","Tunisia",0.07,8363,163010
+"100","Iraq",-Inf,-Inf,152962
+"101","Uzbekistan",-Inf,-Inf,148642
+"102","Palestine",0.23,11748,143142
+"103","Guatemala",0.01,1639,139490
+"104","Luxembourg",5.47,34225,130279
+"105","Afghanistan",-Inf,-Inf,120000
+"106","Seychelles",43.99,43259,108749
+"107","Northern Cyprus",11.53,44083,97969
+"108","New Zealand",0.4,19273,90286
+"109","Iceland",8.22,28056,89190
+"110","Togo",-Inf,-Inf,82753
+"111","Guinea",-Inf,-Inf,77433
+"112","Algeria",-Inf,-Inf,75000
+"113","Cote d'Ivoire",-Inf,-Inf,68843
+"114","Jersey",22.8,23049,68095
+"115","Macao",3.48,22593,67431
+"116","Moldova",-Inf,-Inf,67085
+"117","Belarus",0.28,26100,66618
+"118","Barbados",-Inf,-Inf,65873
+"119","Gibraltar",88.42,29790,64319
+"120","Sudan",-Inf,-Inf,63837
+"121","Isle of Man",18.17,15454,61699
+"122","Guyana",-Inf,-Inf,60172
+"123","Vietnam",-Inf,-Inf,58037
+"124","Honduras",0.03,2639,57639
+"125","Mozambique",-Inf,-Inf,57305
+"126","Cayman Islands",37.36,24553,56214
+"127","Paraguay",0.04,2684,48684
+"128","Jamaica",-Inf,-Inf,47728
+"129","Montenegro",1.08,6753,42866
+"130","Bermuda",27.88,17361,41152
+"131","Laos",-Inf,-Inf,40732
+"132","Guernsey",12.31,8254,37829
+"133","Sierra Leone",0,122,37680
+"134","Suriname",-Inf,-Inf,33038
+"135","Botswana",-Inf,-Inf,31628
+"136","Belize",-Inf,-Inf,27353
+"137","Antigua and Barbuda",-Inf,-Inf,27032
+"138","North Macedonia",-Inf,-Inf,26014
+"139","Taiwan",-Inf,-Inf,24658
+"140","Saint Lucia",-Inf,-Inf,23257
+"141","Georgia",-Inf,-Inf,20622
+"142","Monaco",22.41,8795,20510
+"143","Eswatini",-Inf,-Inf,20262
+"144","Dominica",0.47,337,18112
+"145","Andorra",1.64,1265,17091
+"146","San Marino",22.69,7702,16889
+"147","Gambia",-Inf,-Inf,16735
+"148","Bosnia and Herzegovina",-Inf,-Inf,15000
+"149","Equatorial Guinea",0.21,2990,14080
+"150","Turks and Caicos Islands",-Inf,-Inf,12935
+"151","Faeroe Islands",8.69,4247,12629
+"152","Saint Vincent and the Grenadines",-Inf,-Inf,12124
+"153","Saint Kitts and Nevis",-Inf,-Inf,10456
+"154","Bahamas",-Inf,-Inf,10000
+"155","Grenada",-Inf,-Inf,9821
+"156","Greenland",7.53,4277,9808
+"157","Sao Tome and Principe",-Inf,-Inf,9724
+"158","Liechtenstein",-Inf,-Inf,6914
+"159","Anguilla",-Inf,-Inf,5835
+"160","Trinidad and Tobago",-Inf,-Inf,4777
+"161","Falkland Islands",49.3,1717,4322
+"162","Gabon",-Inf,-Inf,3925
+"163","Mauritius",-Inf,-Inf,3843
+"164","Saint Helena",-Inf,-Inf,3107
+"165","Mauritania",-Inf,-Inf,2930
+"166","Namibia",-Inf,-Inf,2526
+"167","Kosovo",-Inf,-Inf,2500
+"168","Syria",-Inf,-Inf,2500
+"169","Brunei",-Inf,-Inf,2323
+"170","Cape Verde",-Inf,-Inf,2184
+"171","Kyrgyzstan",-Inf,-Inf,2100
+"172","Solomon Islands",-Inf,-Inf,2000
+"173","Montserrat",3.88,194,1306
+"174","Mali",-Inf,-Inf,643
+"175","Armenia",-Inf,-Inf,565
+"176","Papua New Guinea",-Inf,-Inf,250
